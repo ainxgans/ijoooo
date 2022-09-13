@@ -1,1 +1,1 @@
-Commit ke-1 pada tanggal Tue Sep 13 14:00 2022 +0100
+Commit ke-2 pada tanggal Tue Sep 13 14:00 2022 +0100
