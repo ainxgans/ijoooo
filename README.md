@@ -1,1 +1,1 @@
-Commit ke-7 pada tanggal Thu Sep 15 14:00 2022 +0100
+Commit ke-8 pada tanggal Thu Sep 15 14:00 2022 +0100
