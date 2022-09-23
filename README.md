@@ -1,1 +1,1 @@
-Commit ke-103 pada tanggal Fri Sep 23 14:00 2022 +0100
+Commit ke-104 pada tanggal Fri Sep 23 14:00 2022 +0100
