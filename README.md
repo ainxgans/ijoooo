@@ -1,1 +1,1 @@
-Commit ke-13 pada tanggal Mon Sep 26 14:00 2022 +0100
+Commit ke-14 pada tanggal Mon Sep 26 14:00 2022 +0100
