@@ -1,1 +1,1 @@
-Commit ke-20 pada tanggal Mon Oct 17 14:00 2022 +0100
+Commit ke-21 pada tanggal Mon Oct 17 14:00 2022 +0100
