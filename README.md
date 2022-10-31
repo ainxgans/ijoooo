@@ -1,1 +1,1 @@
-Commit ke-11 pada tanggal Mon Oct 31 14:00 2022 +0100
+Commit ke-12 pada tanggal Mon Oct 31 14:00 2022 +0100
