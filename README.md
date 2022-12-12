@@ -1,1 +1,1 @@
-Commit ke-1 pada tanggal Mon Dec 12 14:00 2022 +0100
+Commit ke-2 pada tanggal Mon Dec 12 14:00 2022 +0100
