@@ -1,1 +1,1 @@
-Commit ke-17 pada tanggal Sun Apr 23 14:00 2023 +0100
+Commit ke-18 pada tanggal Sun Apr 23 14:00 2023 +0100
